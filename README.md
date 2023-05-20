@@ -10,8 +10,7 @@
 
 #### Ответ
 
-1. ![]()
-2. ![]()
+1. ![01-01](https://github.com/Mikhail-2023/9.5-Prometheus-2/blob/main/screen/01-01.PNG)
 
 ---
 
@@ -23,8 +22,8 @@
 
 #### Ответ
 
-1. ![]()
-2. ![]()
+1. ![02-01](https://github.com/Mikhail-2023/9.5-Prometheus-2/blob/main/screen/02-01.PNG)
+2. ![02-02](https://github.com/Mikhail-2023/9.5-Prometheus-2/blob/main/screen/02-02.PNG)
 
 ---
 
@@ -36,5 +35,5 @@
 
 #### Ответ
 
-1. ![]()
-2. ![]()
+1. ![03-01](https://github.com/Mikhail-2023/9.5-Prometheus-2/blob/main/screen/03-01.PNG)
+2. ![03-02](https://github.com/Mikhail-2023/9.5-Prometheus-2/blob/main/screen/03-02.PNG)
